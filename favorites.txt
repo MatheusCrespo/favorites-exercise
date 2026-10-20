@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Sushi do O-Tao
 Frango desfiado
 Batata doce
+=======
+The Blacklist
+The Wire
+The Sopranos
+>>>>>>> movies
